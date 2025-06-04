@@ -1,5 +1,5 @@
 # KUKU-FM-testcase
-✅ Detailed Test Case Descriptions:
+# Detailed Test Case Descriptions:
 1. Website Launch on URL Hit (TC_001):
 Description: This test verifies that the Kuku FM website loads properly when the correct URL (https://kukufm.com) is entered in the browser. The goal is to ensure the server is responding and the home page renders without any issues such as errors, broken layout, or loading delays.
 
